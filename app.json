@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "SAFEWALK",
+    "slug": "safewalk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "safewalk",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
